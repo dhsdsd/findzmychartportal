@@ -1,0 +1,32 @@
+Uri: https://findzmychartportal.vercel.app/?gad_source=5&gad_campaignid=22579608129&gclid=EAIaIQobChMIw8f4x9bQjQMVfhutBh3siiohEAAYASAAEgJnlPD_BwE
+File Name: C:\Users\Locked Door\Desktop\findzmychartportal.vercel.app\index.htm.html
+Content Type: text/html
+
+Uri: https://findzmychartportal.vercel.app/about.html
+File Name: C:\Users\Locked Door\Desktop\findzmychartportal.vercel.app\about.html
+Content Type: text/html
+
+Uri: https://findzmychartportal.vercel.app/disclaimer.html
+File Name: C:\Users\Locked Door\Desktop\findzmychartportal.vercel.app\disclaimer.html
+Content Type: text/html
+
+Uri: https://findzmychartportal.vercel.app/index.html
+File Name: C:\Users\Locked Door\Desktop\findzmychartportal.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://findzmychartportal.vercel.app/my-chart.html
+File Name: C:\Users\Locked Door\Desktop\findzmychartportal.vercel.app\my-chart.html
+Content Type: text/html
+
+Uri: https://findzmychartportal.vercel.app/privacy.html
+File Name: C:\Users\Locked Door\Desktop\findzmychartportal.vercel.app\privacy.html
+Content Type: text/html
+
+Uri: https://findzmychartportal.vercel.app/refund.html
+File Name: C:\Users\Locked Door\Desktop\findzmychartportal.vercel.app\refund.html
+Content Type: text/html
+
+Uri: https://findzmychartportal.vercel.app/terms.html
+File Name: C:\Users\Locked Door\Desktop\findzmychartportal.vercel.app\terms.html
+Content Type: text/html
+
